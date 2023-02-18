@@ -1,6 +1,6 @@
 # bypass-captcha
 
-a python script to automatic recaptcha with selenium python
+a python script to automatic recaptcha with selenium python. This python script can solve recaptcha v2.
 
 Proof :- 
 
